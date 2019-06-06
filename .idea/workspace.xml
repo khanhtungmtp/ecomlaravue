@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9ec138-2ab4-4d0d-b3b1-0ba38c93add3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/js/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/views/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/views/Checkout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/views/Checkout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/views/Confirmation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/views/Confirmation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/views/SingleProduct.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/views/SingleProduct.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="1537">
               <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
             </state>
           </provider>
@@ -40,17 +42,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/Checkout.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="2146">
+              <caret line="74" column="106" selection-start-line="74" selection-start-column="106" selection-end-line="74" selection-end-column="106" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/js/views/Confirmation.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="203">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -58,17 +60,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/Login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="1711">
               <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/Register.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="81" column="39" selection-start-line="81" selection-start-column="39" selection-end-line="81" selection-end-column="39" />
+            <state relative-caret-position="2378">
+              <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -76,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/SingleProduct.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="783">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -94,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+            <state relative-caret-position="3683">
+              <caret line="135" column="3" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
               <folding>
                 <element signature="e#334#363#0" expanded="true" />
               </folding>
@@ -106,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/js/views/Home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1024">
+            <state relative-caret-position="1653">
               <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
             </state>
           </provider>
@@ -155,13 +157,13 @@
         <option value="$PROJECT_DIR$/resources/js/views/App.vue" />
         <option value="$PROJECT_DIR$/resources/js/views/Home.vue" />
         <option value="$PROJECT_DIR$/resources/js/views/Admin.vue" />
-        <option value="$PROJECT_DIR$/resources/js/views/Checkout.vue" />
-        <option value="$PROJECT_DIR$/resources/js/views/Confirmation.vue" />
-        <option value="$PROJECT_DIR$/resources/js/views/SingleProduct.vue" />
         <option value="$PROJECT_DIR$/resources/js/views/UserBoard.vue" />
         <option value="$PROJECT_DIR$/resources/js/app.js" />
         <option value="$PROJECT_DIR$/resources/js/views/Login.vue" />
         <option value="$PROJECT_DIR$/resources/js/views/Register.vue" />
+        <option value="$PROJECT_DIR$/resources/js/views/SingleProduct.vue" />
+        <option value="$PROJECT_DIR$/resources/js/views/Checkout.vue" />
+        <option value="$PROJECT_DIR$/resources/js/views/Confirmation.vue" />
       </list>
     </option>
   </component>
@@ -279,7 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,6 +315,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,6 +325,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -354,18 +357,19 @@
       <updated>1559700546968</updated>
       <workItem from="1559700548370" duration="4350000" />
       <workItem from="1559708953425" duration="5403000" />
-      <workItem from="1559744858170" duration="4987000" />
+      <workItem from="1559744858170" duration="7108000" />
+      <workItem from="1559789272073" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14740000" />
+    <option name="totallyTimeSpent" value="17035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -555,16 +559,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/views/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
+        <state relative-caret-position="1537">
           <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
         </state>
       </provider>
@@ -578,22 +575,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/views/Checkout.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="2146">
+          <caret line="74" column="106" selection-start-line="74" selection-start-column="106" selection-end-line="74" selection-end-column="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Confirmation.vue">
+    <entry file="file://$PROJECT_DIR$/resources/js/views/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="1711">
+          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/views/Register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2378">
+          <caret line="82" column="76" selection-start-line="82" selection-start-column="76" selection-end-line="82" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/views/SingleProduct.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="783">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -606,25 +610,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="135" column="3" lean-forward="true" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+        <state relative-caret-position="3683">
+          <caret line="135" column="3" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
           <folding>
             <element signature="e#334#363#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Login.vue">
+    <entry file="file://$PROJECT_DIR$/resources/js/views/Home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+        <state relative-caret-position="1653">
+          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/views/Register.vue">
+    <entry file="file://$PROJECT_DIR$/resources/js/views/Confirmation.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="81" column="39" selection-start-line="81" selection-start-column="39" selection-end-line="81" selection-end-column="39" />
+        <state relative-caret-position="203">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
